@@ -1,0 +1,140 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  background: #ffffff;
+}
+.info-header {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #757575;
+}
+.webstudio {
+  color: #2196f3;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+.span-logo-header {
+  color: #000000;
+}
+.list {
+  list-style-type: none;
+}
+.nav:hover {
+  color: #2196f3;
+}
+.nav {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #212121;
+}
+.info-footer:hover,
+.info-header:hover,
+.address:hover {
+  color: #2196f3;
+}
+.info-footer {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+}
+.address {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+.button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  color: #212121;
+  padding: 10px 41px;
+  background: #f5f4fa;
+  border: none;
+  border-radius: 4px;
+}
+.box-h1 {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: #2f303a;
+  color: #ffffff;
+}
+.our-strenghts {
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+.strenghts-items {
+  color: #212121;
+  font-weight: 700;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.strenghts-description {
+  font-weight: 400;
+  line-height: 24px;
+  color: #757575;
+}
+.what-we-do {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.our-team {
+  background: #f5f4fa;
+  display: block;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+.our-team-h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #212121;
+}
+.team-members-names {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #212121;
+}
+.team-members-jobs {
+  font-size: 16px;
+  line-height: 19px;
+  color: #757575;
+}
+.footer {
+  background: #2f303a;
+}
+.span-logo-footer {
+  color: #ffffff;
+}
