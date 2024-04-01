@@ -220,14 +220,11 @@ section {
 
 /* our portfolio */
 
-.container-our-portfolio {
-  margin: 0 156px;
-}
-
 .container-our-portfolio-list {
   display: flex;
   flex-flow: row wrap;
   gap: 24px;
+  justify-content: center;
 }
 
 .our-portfolio-item-figure {
