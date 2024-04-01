@@ -12,8 +12,6 @@ section {
 }
 
 [class^="container"] {
-  margin: 0;
-  padding: 0;
   max-width: 1440px;
 }
 
@@ -306,8 +304,6 @@ section {
   gap: 72px;
   letter-spacing: 0.03em;
   text-align: center;
-  padding: 0px 156px;
-  max-width: 1440px;
 }
 
 .our-team-h2-block {
