@@ -36,6 +36,7 @@ section {
   display: flex;
   flex-direction: row;
   margin-left: 156px;
+  align-items: center;
 }
 
 .container-list-nav {
