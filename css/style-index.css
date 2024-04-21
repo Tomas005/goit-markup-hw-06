@@ -12,6 +12,7 @@ section {
 }
 
 [class^="container"] {
+  margin: 0;
   max-width: 1440px;
 }
 
@@ -183,6 +184,7 @@ section {
   width: 496px;
   height: 120px;
   color: #ffffff;
+  margin: 0 0 45px;
 }
 
 /* our strenghts */
@@ -226,6 +228,7 @@ section {
   flex-flow: row wrap;
   gap: 24px;
   justify-content: center;
+  padding: 0;
 }
 
 .our-portfolio-item-figure {
@@ -255,8 +258,8 @@ section {
 }
 
 .our-portfolio-item-figcaption {
-  width: Fixed (360px) px;
-  height: Fixed (120px) px;
+  width: 360px;
+  height: 120px;
   top: 300px;
   padding: 32px 16px 32px 16px;
   gap: 8px;
@@ -323,6 +326,7 @@ section {
   display: flex;
   gap: 24px;
   justify-content: center;
+  padding: 0;
 }
 
 .item-our-team {
