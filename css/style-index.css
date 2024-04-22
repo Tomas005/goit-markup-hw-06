@@ -16,6 +16,10 @@ section {
   max-width: 1440px;
 }
 
+img {
+  display: block;
+}
+
 /* header */
 
 .container-header {
