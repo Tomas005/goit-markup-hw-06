@@ -252,6 +252,7 @@ section {
 }
 
 .our-portfolio-item-img {
+  display: block;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -340,6 +341,10 @@ section {
 
 .data-our-team {
   padding: 32px 16px;
+}
+
+.our-team-img {
+  display: block;
 }
 
 .team-members-names {
