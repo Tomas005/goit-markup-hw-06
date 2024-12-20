@@ -40,7 +40,7 @@ a {
   color: #2e2f42;
 }
 .container {
-  width: 1128px;
+  width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -86,9 +86,7 @@ a {
   display: flex;
   align-items: center;
 }
-.header-inner {
-  display: flex;
-}
+
 .logo {
   font-family: "Raleway", sans-serif;
   margin-right: 76px;
