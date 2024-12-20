@@ -74,6 +74,9 @@ a {
   display: flex;
   gap: 40px;
 }
+.menu-link {
+  padding: 24px 0;
+}
 .address-item {
   color: #434455;
   font-style: normal;
