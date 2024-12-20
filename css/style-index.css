@@ -70,7 +70,7 @@ a {
   list-style-type: none;
   font-weight: 500;
 }
-.menu {
+.menu-nav {
   display: flex;
   gap: 40px;
 }
