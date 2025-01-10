@@ -132,8 +132,8 @@ a {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(/images/Effective-solutions-for-your-business/hero-image.png),
-    url(/images/Effective-solutions-for-your-business/Dark-bg.png);
+  background-image: url(../images/Effective-solutions-for-your-business/hero-image.png),
+    url(../images/Effective-solutions-for-your-business/Dark-bg.png);
 }
 .effective-solutions-content {
   display: flex;
@@ -308,6 +308,7 @@ a {
 }
 .overlay-paragraph {
   padding: 164px 32px 164px 32px;
+  color: rgba(244, 244, 253, 1);
 }
 .overlay:hover {
   transform: translateY(-121px);
