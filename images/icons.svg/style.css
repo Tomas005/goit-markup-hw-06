@@ -14,3 +14,11 @@ Single-colored icons can be modified like so:
   color: red;
 }
 ========================================== */
+
+.icon-Group {
+  width: 0.9375em;
+}
+
+.icon-clock {
+  width: 0.96875em;
+}
