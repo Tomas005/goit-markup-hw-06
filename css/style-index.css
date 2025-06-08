@@ -510,7 +510,7 @@ textarea::placeholder {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/Effective-solutions-for-your-business/group-of-people-mobile.jpg);
+    url(../images/Effective-solutions-for-your-business/group-of-people-mobile.jpg);
 }
 @media (min-resolution: 192dpi) {
   .effective-solutions-background {
@@ -518,7 +518,7 @@ textarea::placeholder {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/Effective-solutions-for-your-business/group-of-people-mobile@2x.jpg);
+      url(../images/Effective-solutions-for-your-business/group-of-people-mobile@2x.jpg);
   }
 }
 @media (min-width: 768px) {
@@ -527,7 +527,7 @@ textarea::placeholder {
     height: 436px;
     background-size: 768px 436px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7)),
-      url(/images/Effective-solutions-for-your-business/people-office\ 1.png);
+      url(../images/Effective-solutions-for-your-business/people-office\ 1.png);
   }
 }
 @media (min-resolution: 192dpi) {
@@ -536,7 +536,7 @@ textarea::placeholder {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/Effective-solutions-for-your-business/group-of-people-tablet@2x.jpg);
+      url(../images/Effective-solutions-for-your-business/group-of-people-tablet@2x.jpg);
   }
 }
 @media (min-width: 1158px) {
@@ -548,7 +548,7 @@ textarea::placeholder {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/Effective-solutions-for-your-business/people-office\ 1.png);
+      url(../images/Effective-solutions-for-your-business/people-office\ 1.png);
   }
 }
 @media (min-resolution: 192dpi) {
@@ -557,7 +557,7 @@ textarea::placeholder {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/Effective-solutions-for-your-business/group-of-people-desktop@2x.jpg);
+      url(../images/Effective-solutions-for-your-business/group-of-people-desktop@2x.jpg);
   }
 }
 .effective-solutions-content {
